@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Barnes"
+  given-names: "Richard"
+  orcid: "https://orcid.org/0000-0002-0204-6040"
+title: "Using Otsu's method for skull-brain segmentation"
+doi: 10.5281/zenodo.6042312
+date-released: 2022-02-10
+url: "https://github.com/r-barnes/skull-brain-seg"
